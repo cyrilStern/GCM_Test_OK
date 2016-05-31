@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GCM_Tests</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="api_key">AIzaSyDSKXoB_2TnKG7rJxGeqKuBCuRv8vmhoT0</string>
+    <string name="project_id">1085845431027</string>
+
+    <string name="title_activity_notification">Notification from Cloud</string>
+
+
+
+
+</resources>
